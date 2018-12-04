@@ -46,6 +46,7 @@ $ go get -d k8s.io/kubernetes
 $ cd $GOPATH/src/k8s.io/kubernetes
 $ make
 ```
+foo
 
 ##### You have a working [Docker environment].
 
